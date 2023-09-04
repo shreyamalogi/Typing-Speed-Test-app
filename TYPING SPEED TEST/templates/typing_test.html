@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Typing Speed Test</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div id="typing-container">
+        <h1>Typing Speed Test</h1>
+        
+        <p id="sentence">{{ sentence }}</p>
+        
+        <textarea id="typed-text" rows="4" cols="50" placeholder="Start typing..."></textarea>
+        
+        <p id="wpm-result"></p>
+    </div>
+    
+    <div id="footer">
+        <p>&copy; 2023 Shreya's Typing Test App</p>
+    </div>
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

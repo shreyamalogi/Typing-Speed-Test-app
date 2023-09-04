@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column; /* Stack content in a column */
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to bottom, #ff9800, #ff5722); /* Change gradient colors */
+}
+
+#typing-container {
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+#typed-text {
+    width: 80%;
+    height: 150px;
+    font-size: 16px;
+}
+
+#footer {
+    margin-top: 20px;
+    color: white;
+}
