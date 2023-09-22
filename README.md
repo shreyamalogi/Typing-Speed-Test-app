@@ -1,3 +1,6 @@
+
+![Typing speed test]( https://github.com/shreyamalogi/Typing-Speed-Test-app/blob/main/TYPING%20SPEED%20TEST/output%20video/typingspeedtestgif.gif )
+
 # Typing Speed Test app
 
 
