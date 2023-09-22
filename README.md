@@ -7,6 +7,9 @@ This is a simple web application built with Flask that allows you to test and im
 
 Are you looking to improve your typing skills or test your typing speed? This project is a fun way to do just that. It helps you practice typing with randomly generated sentences and provides instant feedback on your performance. Whether you're a student, a writer, or anyone who uses a keyboard, enhancing your typing speed is always beneficial.
 
+## Tech Stack used: 
+`Python` `Flask` `HTML/CSS` `JavaScript` `Jinja2`
+
 ## How to Use
 
 1. Clone the repository to your local machine.
