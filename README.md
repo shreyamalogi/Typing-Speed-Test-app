@@ -3,8 +3,7 @@
 
 # Typing Speed Test app
 
-
-This is a simple web application built with Flask that allows you to test and improve your typing speed. It provides you with random sentences to type, calculates your typing speed (words per minute - WPM), and gives you immediate feedback on your typing skills.
+This is a simple web application built with Flask that allows you to test and improve your typing speed. It provides you with random sentences to type, calculates your typing speed (words per minute - WPM), 
 
 ## Why This Project?
 
