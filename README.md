@@ -1,4 +1,45 @@
-Further steps-
+# Typing Speed Test app
+
+
+This is a simple web application built with Flask that allows you to test and improve your typing speed. It provides you with random sentences to type, calculates your typing speed (words per minute - WPM), and gives you immediate feedback on your typing skills.
+
+## Why This Project?
+
+Are you looking to improve your typing skills or test your typing speed? This project is a fun way to do just that. It helps you practice typing with randomly generated sentences and provides instant feedback on your performance. Whether you're a student, a writer, or anyone who uses a keyboard, enhancing your typing speed is always beneficial.
+
+## How to Use
+
+1. Clone the repository to your local machine.
+2. Install Flask if you haven't already by running `pip install Flask` in your terminal.
+3. Run the application by executing `python app.py` in your terminal.
+4. Open your web browser and navigate to `http://localhost:5000`.
+5. Start typing the sentence displayed on the screen as fast and accurately as possible.
+6. Once you've finished typing, your typing speed in WPM will be calculated and displayed.
+
+## Features
+
+- Randomly generated sentences for typing practice.
+- Real-time calculation of your typing speed (WPM).
+- User-friendly and responsive web interface.
+
+**Author:** Shreya Malogi
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+MIT License
+
+Copyright (c) 2023 Shreya Malogi
+
+## Contribute
+
+Found a bug or have a feature request? [Open an issue](https://github.com/yourusername/typing-speed-test/issues) or [fork the project](https://github.com/yourusername/typing-speed-test/fork) and submit a pull request. Your contributions are always welcome!
+
+If you find this project useful, please consider giving it a star on GitHub to show your support. Thank you!
+
+
+## Further steps-
 
 To deploy a Flask application on AWS Elastic Beanstalk, you will need to configure your project properly. Here's a general outline of the steps to set up your Flask application for deployment on Elastic Beanstalk:
 
